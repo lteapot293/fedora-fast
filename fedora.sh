@@ -7,4 +7,4 @@ sudo dnf in google-chrome git gcc make cmake &
 sudo dnf install gnome-tweaks &
 sudo dnf copr enable avm/mutter-patched &
 sudo dnf --refresh upgrade &
-git clone https://github.com/ryanoasis/nerd-fonts
+git clone https://github.com/ryanoasis/nerd-fonts &
